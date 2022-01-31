@@ -1,6 +1,6 @@
 
 
-# Project Title
+# Hedge Fund Analysis
 
 This Jupyter Notebook evaluates performance of four hedge fund investment options
 
